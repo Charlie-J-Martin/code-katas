@@ -4,3 +4,5 @@ Create a function that takes two integers as an argument and them multiplied tog
 */
 
 export const multiply = (a: number, b: number) => a * b;
+
+
